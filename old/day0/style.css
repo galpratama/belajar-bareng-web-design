@@ -1,0 +1,27 @@
+.heading-text h1, .heading-text h2, .heading-text h3 {
+    margin: 0;
+}
+
+.heading-text {
+    float: left;
+}
+
+.heading-navigation {
+    float: right;
+}
+.heading-navigation ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.heading-navigation li {
+    float: left;
+}
+
+.heading-navigation li a {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+}
